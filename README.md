@@ -2,7 +2,7 @@
 ### About me
   I am a math student who likes programming. When I'm not doing math or programming, I like to play basketball, train martial arts and watch superhero movies. 
 
-### Tnterests 
+### Interests 
   - 👀 I’m interested in AI, Machine Learning and Deep Learning
 
 ### Studying 
