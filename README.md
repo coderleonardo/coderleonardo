@@ -1,15 +1,18 @@
 ## Hi, I’m Leonardo Cesar 👋
-### About me
-  I am a math student who likes programming. When I'm not doing math or programming, I like to play basketball, train martial arts and watch superhero movies. 
-
-### Interests <img src="https://media.giphy.com/media/3xz2BOOneWuZaYj5fy/giphy.gif" width="120" height="90" />
-  - 👀 I’m interested in AI, Machine Learning and Deep Learning
+<p align="center">
   
-### Studying  <img src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="120" height="90" />
-  - 🌱 I’m currently learning Tensorflow, Keras, SQL
+  ### About me
+    I am a math student who likes programming.
+    When I'm not doing math or programming, I like to play basketball, train martial arts and watch superhero movies. 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=coderleonardo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  ### Interests <img src="https://media.giphy.com/media/3xz2BOOneWuZaYj5fy/giphy.gif" width="120" height="90" />
+    - 👀 I’m interested in AI, Machine Learning and Deep Learning
 
+  ### Studying  <img src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="120" height="90" />
+    - 🌱 I’m currently learning Tensorflow, Keras, SQL
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coderleonardo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/coderleonardo.id)
 <!---
