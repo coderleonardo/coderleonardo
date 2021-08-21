@@ -20,4 +20,4 @@ coderleonardo/coderleonardo is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-[Visit de Website made by me using HTML5 and CSS3](https://coderleonardo.netlify.app)
+[Visit the Website made by me using HTML5 and CSS3](https://coderleonardo.netlify.app)
