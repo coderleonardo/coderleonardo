@@ -21,3 +21,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [Visit the Website made by me using HTML5 and CSS3](https://coderleonardo.netlify.app)
+
+[Add me on Linkedin](https://www.linkedin.com/in/leonardo-cesar/)
