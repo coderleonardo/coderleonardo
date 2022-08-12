@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me: 
 
-    I'm a Bachelor of Science in Mathematical Physics and Applied Mathematics.
+    I'm a Bachelor of Science in Mathematical Physics.
 
     I'm currently working as a Business Analyst and I'm a big enthusiast of Data Science and Artificial Intelligence.
 
