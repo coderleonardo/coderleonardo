@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/leonardo-cesar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://coderleonardo.netlify.app">
-    <img src="https://img.shields.io/badge/Presentation%20Site-green?style=for-the-badge&logo=appveyor&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://coderleonardo.github.io/">
+    <img src="https://img.shields.io/badge/Github%20Page-green?style=for-the-badge&logo=appveyor&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/coderleonardo">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -53,8 +53,8 @@
   <a href="https://www.linkedin.com/in/leonardo-cesar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://coderleonardo.netlify.app">
-    <img src="https://img.shields.io/badge/Presentation%20Site-green?style=for-the-badge&logo=appveyor&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://coderleonardo.github.io/">
+    <img src="https://img.shields.io/badge/Github%20Page-green?style=for-the-badge&logo=appveyor&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/coderleonardo">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
