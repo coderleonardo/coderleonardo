@@ -26,7 +26,7 @@
 
 ### :page_with_curl: Studying :pencil2:
 
-    I’m currently learning Deep Learning with a focus on Attention Gates
+    I’m currently learning Deep Learning with a focus on Attention Mechanisms.
     
 ---
 
