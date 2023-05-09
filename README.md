@@ -20,7 +20,7 @@
 
     I'm a Bachelor of Science in Mathematical Physics.
 
-    I'm currently working as a Business Analyst and I'm a big enthusiast of Data Science and Artificial Intelligence.
+    I'm currently working as a Data Science Researcher and I'm a big enthusiast of Artificial Intelligence.
 
     When I'm not studying, I like to play basketball and watch movies.
 
