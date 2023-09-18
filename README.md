@@ -43,20 +43,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
 </div>
 
-<div id="stats" align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coderleonardo&theme=dark&background=000000&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  
 
-</div>
 
-<div id="contacts" align="center">
-  <a href="https://www.linkedin.com/in/leonardo-cesar/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://coderleonardo.github.io/">
-    <img src="https://img.shields.io/badge/Github%20Page-green?style=for-the-badge&logo=appveyor&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/coderleonardo">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
